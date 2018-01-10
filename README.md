@@ -1,2 +1,2 @@
 # g2
-Cross language namespace with classes and functions for 2D geometry, 2D vectors, random numbers for 2D games.
+A cross language namespace with classes and functions for 2D geometry, 2D vectors, random numbers for 2D games.
